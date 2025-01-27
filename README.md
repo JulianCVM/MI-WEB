@@ -1,4 +1,4 @@
 # Hola a todos
 
-![](.\storage\campus_logo.jpg)
+![](../storage/campus_logo.jpg)
 
